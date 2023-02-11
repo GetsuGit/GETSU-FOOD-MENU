@@ -21,7 +21,7 @@
             android:layout_width="match_parent"
             android:layout_height="200sp"
             android:scaleType="centerCrop"
-            tools:src="@drawable/img" />
+            tools:src="@drawable/gehu" />
 
         <TextView
             android:id="@+id/txtGrid"
